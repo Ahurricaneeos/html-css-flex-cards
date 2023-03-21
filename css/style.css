@@ -8,3 +8,27 @@
 .h-padding {
     padding: 10px;
 }
+.margin {
+   margin: 15px;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;;
+}
+.flex-direction {
+    justify-content: center;
+}
+.bg-black {
+    background-color: black;
+}
+.img {
+    height: 75px;
+    width: 75px;
+}
+.flex-align {
+    -ms-flex-align: start;
+}
+.d-dimension {
+    height: 75px;
+    width: 200px;
+}
