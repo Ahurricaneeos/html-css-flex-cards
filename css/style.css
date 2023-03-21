@@ -1,0 +1,10 @@
+.text-center {
+    text-align: center;
+}
+.body {
+    width: 70%;
+    margin: auto;
+}
+.h-padding {
+    padding: 10px;
+}
